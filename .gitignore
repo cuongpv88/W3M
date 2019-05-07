@@ -1,0 +1,16 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/
+/W3M.LINES.TMS/bin/Debug/
+/W3M.LINES.TMS/bin/Release/
+/W3M.LINES.TMS/obj/
+/W3M.LINES.TMS.BLL/obj
+/W3M.LINES.TMS.Framework/obj
+/W3M.LINES.TMS.Models/obj
+/W3M.LINES.TMS.DAL/obj
+/W3M.LINES.TMS.BLL/bin/
+/W3M.LINES.TMS.DAL/bin/
+/W3M.LINES.TMS.Framework/bin/
+/W3M.LINES.TMS.Models/bin/
